@@ -81,7 +81,7 @@ The application allows users to browse products, search items, filter by categor
 
 ### Home Page
 
-(home-page.png.png)
+(fashion store/home-page.png)
 
 ### Products Page
 
