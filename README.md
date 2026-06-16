@@ -81,15 +81,15 @@ The application allows users to browse products, search items, filter by categor
 
 ### Home Page
 
-([fashion store/home-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/home-page.png?raw=true))
+([home-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/home-page.png?raw=true))
 
 ### Products Page
 
-([products-page.png.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/products-page.png?raw=true))
+([products-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/products-page.png?raw=true))
 
 ### Product Details Page
 
-[(product-details.png.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/product-details.png?raw=true))
+[(product-details.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/product-details.png?raw=true))
 
 ### Cart Page
 
@@ -97,11 +97,11 @@ The application allows users to browse products, search items, filter by categor
 
 ### Checkout Page
 
-([checkout-page.png.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/checkout-page.png?raw=true))
+([checkout-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/checkout-page.png?raw=true))
 
 ### My Orders Page
 
-[(orders-page.png.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/orders-page.png?raw=true))
+[(orders-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/orders-page.png?raw=true))
 
 ---
 
