@@ -81,7 +81,7 @@ The application allows users to browse products, search items, filter by categor
 
 ### Home Page
 
-(fashion store/home-page.png)
+([fashion store/home-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/home-page.png?raw=true))
 
 ### Products Page
 
