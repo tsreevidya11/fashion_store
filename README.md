@@ -93,7 +93,7 @@ The application allows users to browse products, search items, filter by categor
 
 ### Cart Page
 
-(https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/cart-page.png?raw=true)
+([cart-page.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/cart-page.png?raw=true))
 
 ### Checkout Page
 
