@@ -81,27 +81,27 @@ The application allows users to browse products, search items, filter by categor
 
 ### Home Page
 
-(Add screenshot here)
+(home-page.png.png)
 
 ### Products Page
 
-(Add screenshot here)
+(products-page.png.png)
 
 ### Product Details Page
 
-(Add screenshot here)
+(product-details.png.png)
 
 ### Cart Page
 
-(Add screenshot here)
+(cart-page.png.png)
 
 ### Checkout Page
 
-(Add screenshot here)
+(checkout-page.png.png)
 
 ### My Orders Page
 
-(Add screenshot here)
+(orders-page.png.png)
 
 ---
 
