@@ -101,7 +101,7 @@ The application allows users to browse products, search items, filter by categor
 
 ### My Orders Page
 
-(orders-page.png.png)
+[(orders-page.png.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/orders-page.png?raw=true))
 
 ---
 
