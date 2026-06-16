@@ -97,7 +97,7 @@ The application allows users to browse products, search items, filter by categor
 
 ### Checkout Page
 
-(checkout-page.png.png)
+([checkout-page.png.png](https://github.com/tsreevidya11/fashion_store/blob/main/fashion%20store/checkout-page.png?raw=true))
 
 ### My Orders Page
 
