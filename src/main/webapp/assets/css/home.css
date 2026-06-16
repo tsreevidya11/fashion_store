@@ -1,0 +1,149 @@
+/* HERO SECTION */
+
+.hero{
+    background: linear-gradient(135deg, #0F172A, #1E293B);
+    padding: 100px 0;
+    color: white;
+}
+
+.hero-content{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:60px;
+}
+
+.hero-text{
+    flex:1;
+}
+
+.hero-text h1{
+    font-size:64px;
+    font-weight:800;
+    line-height:1.1;
+    margin-bottom:20px;
+    letter-spacing:-1px;
+    color:#ffffff;
+}
+
+.hero-text p{
+    font-size:20px;
+    line-height:1.8;
+    color:#CBD5E1;
+    margin-bottom:35px;
+    max-width:550px;
+}
+
+.hero .btn-primary{
+    background:#F97316;
+    color:white;
+    font-size:16px;
+    font-weight:600;
+    padding:14px 32px;
+    border-radius:50px;
+    transition:0.3s;
+}
+
+.hero .btn-primary:hover{
+    transform:translateY(-3px);
+    box-shadow:0 10px 25px rgba(249,115,22,0.4);
+}
+.hero-image{
+    flex:1.3;
+}
+
+.hero-image img{
+    width:100%;
+    max-width:750px;
+    max-height:650px;
+    object-fit:contain;
+}
+
+/* PRODUCTS */
+
+.products-section{
+    padding:70px 0;
+}
+
+.section-title{
+    font-size:34px;
+    margin-bottom:35px;
+    font-weight:700;
+}
+
+/* GRID */
+
+.product-grid{
+    display:grid;
+    grid-template-columns:
+    repeat(auto-fit,minmax(240px,1fr));
+    gap:30px;
+}
+
+/* CARD */
+
+.product-card{
+    background:#fff;
+    border-radius:16px;
+    padding:15px;
+    text-align:center;
+    box-shadow:0 5px 15px rgba(0,0,0,0.08);
+    transition:0.3s;
+}
+
+.product-card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 12px 25px rgba(0,0,0,0.15);
+}
+/* IMAGE */
+
+.product-card img{
+    width:100%;
+    height:260px;
+    object-fit:cover;
+    border-radius:15px;
+    transition:.4s;
+}
+
+.product-card:hover img{
+    transform:scale(1.05);
+}
+
+/* TITLE */
+
+.product-card h3{
+    margin-top:15px;
+    font-size:19px;
+    color:#222;
+}
+
+/* PRICE */
+
+.price{
+    color:#6C4CF1;
+    font-size:22px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+    .hero-content{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .hero-text h1{
+        font-size:40px;
+    }
+
+    .hero-text p{
+        font-size:18px;
+    }
+
+    .product-card img{
+        height:220px;
+    }
+}
